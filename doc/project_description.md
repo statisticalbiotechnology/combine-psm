@@ -19,3 +19,12 @@ Most notably [MS2Rescore](https://pubmed.ncbi.nlm.nih.gov/31077310/) and [Proteo
 * [MS-Amanda](https://ms.imp.ac.at/?goto=msamanda)
 * [Andromeda](https://www.maxquant.org/)
 
+
+### Dataset
+
+A temptive set to start with is this [HELA-UPS mixture](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD002370-1&test=no).
+
+#### First try
+Download the raw data
+Convert one of the raw files to msdata-format using Proteowizard's msconvert
+Search the data with crux/tide.
